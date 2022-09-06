@@ -1,0 +1,9 @@
+{
+    "name": "algorithms",
+    "version-string": "0.0.0",
+    "dependencies": [
+      "spdlog",
+      "fmt",
+      "catch2"
+    ]
+  }
